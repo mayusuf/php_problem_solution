@@ -1,9 +1,7 @@
 <?php
 
 /*
-    Task:
-
-    Write a function `foobar` which takes an integer `$n`
+    A function  which takes an integer `$n`
     and returns one of the following values:
 
     (1) When `$n` is a multiple of 5, `foobar($n)` should
@@ -20,7 +18,7 @@
 
 
 
-/* Your solution: */
+/* solution: */
     
     /**
     * @param int $n
@@ -59,4 +57,3 @@
     $input = 70;
     echo foobar($input);
 
-// ...
